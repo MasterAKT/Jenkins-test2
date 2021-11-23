@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "this is testing script for jenkins"
+echo "this is testing script for jenkins v1"
